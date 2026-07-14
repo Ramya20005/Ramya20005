@@ -10,24 +10,6 @@ Passionate about building scalable web applications, Java backend systems, and A
 
 ---
 
-## 👩‍💻 About Me
-
-🎓 B.Tech Artificial Intelligence and Data Science Student at Knowledge Institute of Technology
-
-💻 Aspiring Full Stack Developer and Java Developer
-
-☕ Strong interest in Java, Spring Boot, Backend Development, and REST APIs
-
-🌱 Currently improving my Data Structures & Algorithms and Full Stack Development skills
-
-🤖 Interested in Artificial Intelligence, Machine Learning, and AI-powered applications
-
-🏆 2nd Prize Winner in a 12-Hour Coding Competition
-
-📄 Best Paper Award for research on RAG-Based AI for Judicial Decision Support
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -120,42 +102,6 @@ The system provides:
 
 ---
 
-## 💼 Internship Experience
-
-☕ **Java Full Stack Development Intern**
-
-Dev Technology Solutions
-
-📊 **Data Science Intern**
-
-CodSoft
-
-💻 **Software Development Intern**
-
-Prodigy InfoTech
-
----
-
-## 🏆 Achievements
-
-🥈 2nd Prize in a 12-Hour Coding Competition
-
-📄 Best Paper Award for research on RAG-Based AI for Judicial Decision Support
-
----
-
-## 📜 Certifications
-
-☕ Java
-
-🐍 Python
-
-💻 C++
-
-📊 Business Intelligence & Analytics
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -175,19 +121,6 @@ Prodigy InfoTech
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya20005&layout=compact&theme=tokyonight" />
 
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Java
-- Data Structures and Algorithms
-- Spring Boot
-- REST API Development
-- Full Stack Development
-- Machine Learning
-
----
 
 ## 🤝 Connect With Me
 
