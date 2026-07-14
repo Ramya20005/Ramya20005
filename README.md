@@ -4,12 +4,6 @@
 Aspiring Full Stack Developer | Java Developer | AI & Data Science Student
 </h3>
 
-<p align="center">
-Passionate about building scalable web applications, Java backend systems, and AI-powered solutions.
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -98,7 +92,7 @@ The system provides:
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya20005&theme=tokyonight" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya20005&theme=tokyonight" />
 
 </p>
 
