@@ -98,7 +98,7 @@ The system provides:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya20005&theme=tokyonight" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya20005&theme=tokyonight" />
 
 </p>
 
