@@ -114,8 +114,3 @@ The system provides:
 
 </p>
 
-<p align="center">
-
-⭐ <b>Thanks for visiting my GitHub Profile!</b> ⭐
-
-</p>
