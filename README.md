@@ -15,19 +15,13 @@ Passionate about building scalable web applications, Java backend systems, and A
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### 🗄️ Databases
@@ -41,8 +35,6 @@ Passionate about building scalable web applications, Java backend systems, and A
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven,postman,figma" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -110,16 +102,6 @@ The system provides:
 
 </p>
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya20005&layout=compact&theme=tokyonight" />
-
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -137,8 +119,6 @@ The system provides:
 </a>
 
 </p>
-
----
 
 <p align="center">
 
